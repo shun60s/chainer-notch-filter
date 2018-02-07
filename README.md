@@ -8,9 +8,9 @@ A study of design iir notch filter by deep learning framework chainer
 
 ## Usage
 In main1.py, select one of following choice as rnn.
-
+```
 python main1.py
-
+```
 
 ## Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
