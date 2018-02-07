@@ -6,7 +6,7 @@
 #  matplotlib 1.5.3
 #  chainer 1.20.0.1
 
-print "CAUTION:  This program is not guaranteed. Please use this at your own risk! "
+
 
 import numpy as np
 from matplotlib import pyplot as plt
