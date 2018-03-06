@@ -1,6 +1,6 @@
 # chainer-notch-filter
 A study of design iir notch filter by deep learning framework chainer  
-ノッチフィルタをディープラーニングで学習できるかどうか試してみた。  
+演算精度が求められるノッチフィルタをディープラーニングで学習できるかどうか試してみた。  
 
 
 ## Document
